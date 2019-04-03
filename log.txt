@@ -1,0 +1,53 @@
+index.js:1 Uncaught SyntaxError: Unexpected token <
+0.chunk.js:33721 Download the React DevTools for a better development experience: https://fb.me/react-devtools
+0.chunk.js:11291 ./src/containers/app.js
+  Line 1:   'Component' is defined but never used             no-unused-vars
+  Line 2:    'logo' is defined but never used                  no-unused-vars
+  Line 35:  'sendMessage' is assigned a value but never used  no-unused-vars
+printWarnings @ 0.chunk.js:11291
+0.chunk.js:11291 ./src/components/ChatInput.js
+  Line 43:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+printWarnings @ 0.chunk.js:11291
+pubnub.min.js:3540 <<<<<
+pubnub.min.js:3540 [2019-03-08T20:46:14.424Z] 
+ https://ps10.pndsn.com/publish/pub-c-7f537b3b-b8c4-43fd-ab54-4bb342f1bdef/sub-c-fa0632e2-807f-11e8-b5c5-52ab1fb946f2/0/ReactChat/0/%7B%22Who%22%3A%22144925%22%2C%22What%22%3A%22gsgdss%22%2C%22When%22%3A1552077974421%7D 
+ undefined
+pubnub.min.js:3540 -----
+app.js:50 sendMessage {Who: "144925", What: "gsgdss", When: 1552077974421}What: "gsgdss"When: 1552077974421Who: "144925"__proto__: Object
+pubnub.min.js:3544 >>>>>>
+pubnub.min.js:3544 [2019-03-08T20:46:14.645Z / 221] 
+ https://ps10.pndsn.com/publish/pub-c-7f537b3b-b8c4-43fd-ab54-4bb342f1bdef/sub-c-fa0632e2-807f-11e8-b5c5-52ab1fb946f2/0/ReactChat/0/%7B%22Who%22%3A%22144925%22%2C%22What%22%3A%22gsgdss%22%2C%22When%22%3A1552077974421%7D?uuid=pn-962f6c13-d429-404c-ad5e-064b8a7526af&pnsdk=PubNub-JS-Web%2F4.21.7&timestamp=1552077974&signature=baSuMMy_z6WjTJB_H2RvE9WMj3DLL3Zpg0xNXWckOoM%3D 
+ undefined 
+ [1,"Sent","15520779737013270"]
+pubnub.min.js:3544 -----
+VM31:1 XHR finished loading: GET "https://ps10.pndsn.com/publish/pub-c-7f537b3b-b8c4-43fd-ab54-4bb342f1bdef/sub-c-fa0632e2-807f-11e8-b5c5-52ab1fb946f2/0/ReactChat/0/%7B%22Who%22%3A%22144925%22%2C%22What%22%3A%22gsgdss%22%2C%22When%22%3A1552077974421%7D?uuid=pn-962f6c13-d429-404c-ad5e-064b8a7526af&pnsdk=PubNub-JS-Web%2F4.21.7&timestamp=1552077974&signature=baSuMMy_z6WjTJB_H2RvE9WMj3DLL3Zpg0xNXWckOoM%3D".
+(anonymous) @ VM31:1
+l._end @ pubnub.min.js:3828
+l.end @ pubnub.min.js:3777
+i @ pubnub.min.js:3550
+s @ pubnub.min.js:3569
+value @ pubnub.min.js:3480
+t.default @ pubnub.min.js:2077
+wrappedInstance.(anonymous function) @ wrapper.js:33
+App._this.sendMessage @ app.js:46
+ChatInput._this.onSubmit @ ChatInput.js:27
+callCallback @ react-dom.development.js:147
+invokeGuardedCallbackDev @ react-dom.development.js:196
+invokeGuardedCallback @ react-dom.development.js:250
+invokeGuardedCallbackAndCatchFirstError @ react-dom.development.js:265
+executeDispatch @ react-dom.development.js:571
+executeDispatchesInOrder @ react-dom.development.js:596
+executeDispatchesAndRelease @ react-dom.development.js:695
+executeDispatchesAndReleaseTopLevel @ react-dom.development.js:704
+forEachAccumulated @ react-dom.development.js:676
+runEventsInBatch @ react-dom.development.js:844
+runExtractedEventsInBatch @ react-dom.development.js:852
+handleTopLevel @ react-dom.development.js:5030
+batchedUpdates$1 @ react-dom.development.js:21425
+batchedUpdates @ react-dom.development.js:2247
+dispatchEvent @ react-dom.development.js:5110
+(anonymous) @ react-dom.development.js:21482
+unstable_runWithPriority @ scheduler.development.js:255
+interactiveUpdates$1 @ react-dom.development.js:21481
+interactiveUpdates @ react-dom.development.js:2268
+dispatchInteractiveEvent @ react-dom.development.js:5086

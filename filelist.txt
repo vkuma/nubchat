@@ -1,0 +1,69 @@
+Folder PATH listing for volume Local Disk
+Volume serial number is C034-A84E
+C:.
+³   .gitignore
+³   filelist.txt
+³   package-lock.json
+³   package.json
+³   README.md
+³   
+ÃÄÄÄ.idea
+³   ³   encodings.xml
+³   ³   misc.xml
+³   ³   modules.xml
+³   ³   nubchat.iml
+³   ³   workspace.xml
+³   ³   
+³   ÀÄÄÄinspectionProfiles
+³           Project_Default.xml
+³           
+ÃÄÄÄbuild
+³   ³   asset-manifest.json
+³   ³   favicon.ico
+³   ³   index.html
+³   ³   manifest.json
+³   ³   precache-manifest.289228d0bd2ac4d0d19d19e3dde464bc.js
+³   ³   service-worker.js
+³   ³   
+³   ÀÄÄÄstatic
+³       ÃÄÄÄcss
+³       ³       main.25e77a47.chunk.css
+³       ³       main.25e77a47.chunk.css.map
+³       ³       
+³       ÃÄÄÄjs
+³       ³       2.fd0e4c92.chunk.js
+³       ³       2.fd0e4c92.chunk.js.map
+³       ³       main.108a6890.chunk.js
+³       ³       main.108a6890.chunk.js.map
+³       ³       runtime~main.c5541365.js
+³       ³       runtime~main.c5541365.js.map
+³       ³       
+³       ÀÄÄÄmedia
+³               logo.5d5d9eef.svg
+³               
+ÃÄÄÄnode_modules
+³   ÃÄÄÄ.bin
+³   ³       
+³                   
+ÃÄÄÄpublic
+³       favicon.ico
+³       index.html
+³       manifest.json
+³       
+ÀÄÄÄsrc
+    ³   App.css
+    ³   App.test.js
+    ³   index.js
+    ³   logo.svg
+    ³   serviceWorker.js
+    ³   
+    ÃÄÄÄcomponents
+    ³       ChatHistory.js
+    ³       ChatInput.js
+    ³       
+    ÃÄÄÄcontainers
+    ³       app.js
+    ³       
+    ÀÄÄÄstyles
+            index.css
+            
